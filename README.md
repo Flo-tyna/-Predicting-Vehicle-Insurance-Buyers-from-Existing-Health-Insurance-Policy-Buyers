@@ -5,11 +5,11 @@
  will purchase additional Vehicle Insurance   provided by the same company.  
   
   ### The Data:   
-  **id:** Unique ID for the customer \n
+  **id:** Unique ID for the customer /n
   
-  **Gender:** Gender of the customer \n
-  **Age:** Age of the customer;
-  **Driving_License:**;
+  **Gender:** Gender of the customer 
+  **Age:** Age of the customer
+  **Driving_License:**
         0 : Customer does not have DL
         1 : Customer already has DL
   **Region_Code:** Unique code for the region of the customer
