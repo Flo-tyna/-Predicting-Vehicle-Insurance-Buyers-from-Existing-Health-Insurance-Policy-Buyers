@@ -1,13 +1,14 @@
 # Predicting Vehicle Insurance Buyers from Existing Health Insurance Policy Buyers
 
   ### Business Problem
-    The client is an insurance company which requires a data model to predict whether existing health insurance policy holders will purchase additional Vehicle Insurance   provided by the same company.  
+ The client is an insurance company which requires a data model to predict whether existing health insurance policy holders 
+ will purchase additional Vehicle Insurance   provided by the same company.  
   
   ### The Data:   
-  **id:** Unique ID for the customer
-  **Gender:** Gender of the customer 
-  **Age:** Age of the customer
-  **Driving_License:**
+  **id:** Unique ID for the customer;
+  **Gender:** Gender of the customer ;
+  **Age:** Age of the customer;
+  **Driving_License:**;
         0 : Customer does not have DL
         1 : Customer already has DL
   **Region_Code:** Unique code for the region of the customer
