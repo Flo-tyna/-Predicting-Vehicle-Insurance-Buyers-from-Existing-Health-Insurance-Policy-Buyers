@@ -5,9 +5,9 @@
  will purchase additional Vehicle Insurance   provided by the same company.  
   
   ### The Data:   
-  **id:** Unique ID for the customer
+  **id:** Unique ID for the customer \n
   
-  **Gender:** Gender of the customer ;
+  **Gender:** Gender of the customer \n
   **Age:** Age of the customer;
   **Driving_License:**;
         0 : Customer does not have DL
